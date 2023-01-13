@@ -41,7 +41,7 @@
                             <a class="nav-link" href="<?php echo base_url('index.php/blog/categories')?>">Categories</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact Us</a>
+                            <a class="nav-link" href="<?php echo base_url('index.php/blog/contactUs')?>">Contact Us</a>
                         </li>
                     </ul>
                 </div>
